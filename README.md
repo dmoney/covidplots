@@ -2,7 +2,21 @@
 
 This repository contains Jupyter notebooks and Matplotlib plots related to the COVID-19 Coronavirus.  (Well, it contains *a* notebook with *a* plot, as of this writing.)
 
-Disclaimer:
+## Installation
+
+From the directory in which you've checked this out, type:
+
+    pip3 install -r requirements.txt
+
+That should install Jupyter and the other things needed to run the code in these notebooks.
+
+To run the notebooks, type
+
+    jupyter notebook
+
+A browser window will open with a list of notebooks in the current directory.  Then select the notebook you want to open (for example, simple_explonential_r0.ipynb).
+
+## Disclaimer:
 
 ## THIS IS NOT MEDICAL OR SCIENTIFIC INFORMATION. I AM NOT A DOCTOR OR EPIDEMIOLOGIST.
 
